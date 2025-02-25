@@ -72,7 +72,7 @@ skills <- tribble(
   "SPSS",               5,
   "Python",             4,
   "SQL",                4,
-  "C++",                3,
+  "C++",                3.5,
 )
 build_skill_bars(skills)
 ```
